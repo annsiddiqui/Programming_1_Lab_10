@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\n\ This\ program\ reads\ in\ several\ students\ grades\ from\ a\ file\ and\ computes\ a\n\ class\ average.\n\n\ @author\ Jason\ Heard\n
+comment1.params=
+comment1.target=void\ run()
+numComments=2

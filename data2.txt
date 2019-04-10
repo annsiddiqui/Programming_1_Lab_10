@@ -1,0 +1,12 @@
+John Smith 
+84.785
+Mike Jones
+58.612
+Andy Coral 
+74
+Karl Brent
+79.956
+Ruby Bonds 
+88.833
+Beni Maxim
+66.641
